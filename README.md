@@ -1,3 +1,4 @@
+[![Daily GitHub Commit](https://github.com/eDDie-05/contact/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/eDDie-05/contact/actions/workflows/daily-commit.yml)
 Contact Management System
 
 A simple Contact Management System that allows users to store, manage, search, update, and delete contact information.
